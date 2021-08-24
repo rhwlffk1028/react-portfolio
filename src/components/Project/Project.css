@@ -1,0 +1,58 @@
+.paragraph {
+    font-family: "Amatic SC", "Courier New", Courier, monospace;
+}
+
+.card {
+  margin: 0 10px 0 10px;
+  width:320px !important;
+  height: auto !important;
+}
+
+.card-bg {
+  background: #053252;
+}
+
+.btn-margin {
+  margin: 10px 0 10px 0;
+  background-color: cadetblue !important;
+  color: white !important;
+}
+
+.card-img {
+  width: auto !important;
+  height: 250px !important;
+}
+
+#projectBanner {
+    background: transparent url(../../images/coding.png) no-repeat center center /
+      cover;
+    height: 200px;
+    margin-bottom: 20px;
+  }
+
+  #main-header {
+      margin-bottom: 20px;
+      font-family: "Amatic SC", "Courier New", Courier, monospace;
+  }
+
+  #main {
+    background-color: #013a63;
+    color: #fff;
+    margin-top: 60px !important;
+    border: 1px solid white;
+  }
+  
+  /* Media Queries */
+  @media screen and (max-width: 768px) {
+    #circle-image {
+      width: 150px;
+      top: 30px;
+    }
+  
+    #projectBanner {
+      background: transparent url(../../images/coding.png) no-repeat center center /
+        cover;
+      height: 120px;
+      margin-bottom: 80px;
+    }
+  }
