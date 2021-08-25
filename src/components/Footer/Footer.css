@@ -8,3 +8,9 @@
     font-family: "Amatic SC", "Courier New", Courier, monospace;
     border-top: 1px solid white;
 }
+
+@media screen and (max-width:428px) {
+    .media-footer {
+        margin-left: 20px !important;
+    }
+  }

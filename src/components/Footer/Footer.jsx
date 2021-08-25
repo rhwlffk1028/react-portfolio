@@ -12,7 +12,7 @@ const Footer = () => {
                 <div className="container-fluid text-center">
                     <span>&#169; Copyright 2021 Kevin Choi</span>
                 </div>
-                <div className="container-fluid text-center">
+                <div className="container-fluid text-center media-footer">
                     <a href="https://github.com/rhwlffk1028" target="_blank">
                         <FontAwesomeIcon icon={faGithub} size='2x' className="icons" />
                     </a>

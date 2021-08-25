@@ -22,7 +22,7 @@ const Project = () => {
                 </div>
             </div>
             <div className="row px-3">
-                <div className="col text-light paragraphProject mb-4 d-flex flex-wrap">
+                <div className="col text-light paragraphProject mb-4 d-flex flex-wrap justify-content-between">
                     <div className="card">
                         <img src={project1} className="card-img-top card-img" />
                         <div className="card-body card-bg text-light text-center">
