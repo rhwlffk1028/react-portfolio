@@ -29,7 +29,7 @@
   }
   
   /* Media Queries */
-  @media screen and (max-width: 375px) {
+  @media screen and (max-width:428px) {
   
     #banner {
       background: transparent url(../../images/banner.jpg) no-repeat center center /

@@ -19,7 +19,7 @@
     margin: 0 10px 0 10px;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width:428px) {
     .header {
         height: auto;
         line-height: 25px;

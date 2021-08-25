@@ -10,7 +10,7 @@
     border-top: 1px solid white;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width:428px) {
     .footer {
         display: none;
     }

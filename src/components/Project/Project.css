@@ -43,7 +43,7 @@
   }
   
   /* Media Queries */
-  @media screen and (max-width: 375px) {
+  @media screen and (max-width:428px) {
     #projectBanner {
       background: transparent url(../../images/coding.png) no-repeat center center /
         cover;
