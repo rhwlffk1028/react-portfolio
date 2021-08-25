@@ -20,8 +20,8 @@ const Contact = () => {
                 </div>
             </div>
             <div className="row px-3 mb-4">
-                <p className="paragraph text-center">Feel free to contact me via GitHub, Linkedin, and Email!</p>
-                <div className="col text-light paragraph">
+                <p className="paragraphContact text-center">Feel free to contact me via GitHub, Linkedin, and Email!</p>
+                <div className="col text-light contactEmoji">
                     <a href="https://github.com/rhwlffk1028" target="_blank">
                         <FontAwesomeIcon icon={faGithub} size='4x' className="icons" />
                     </a>

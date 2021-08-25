@@ -15,7 +15,7 @@ const About = () => {
                 </div>
             </div>
             <div className="row px-3">
-                <div className="col text-light paragraph">
+                <div className="col text-light paragraphAbout">
                     <p>
                         My name is Jun Choi, and I also go by Kevin. I am 26 and currently live in Des Moines, WA. I have quite an interesting educational and a career backgorund. I have obtained my bachelor's of science degree in Aerospace Engineering at the University of Washington in 2017. After my graduation, I worked as an Aerospace Engineer for about 3 years to work on the composite structures of SpaceX's crew dragon spacecraft and also on numerous aircraft design projects.
                     </p>

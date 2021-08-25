@@ -1,7 +1,13 @@
-.paragraph {
+.paragraphContact {
     font-family: "Amatic SC", "Courier New", Courier, monospace;
-    display: flex;
-    justify-content: center;
+    align-items: center !important;
+}
+
+.contactEmoji {
+  display: flex !important;
+  justify-content: center !important;
+  margin-left: 35px !important;
+  padding: 0 !important;
 }
 
 .icons {
