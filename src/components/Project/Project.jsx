@@ -18,7 +18,7 @@ const Project = () => {
                 </div>
             </div>
             <div className="row px-3">
-                <div className="col text-light paragraph media-project justify-content-around mb-4">
+                <div className="col text-light paragraph media-project  mb-4">
                     <div className="card">
                         <img src={project1} className="card-img-top card-img" />
                         <div className="card-body card-bg text-light text-center">

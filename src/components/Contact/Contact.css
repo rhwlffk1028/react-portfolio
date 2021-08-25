@@ -1,5 +1,7 @@
 .paragraph {
     font-family: "Amatic SC", "Courier New", Courier, monospace;
+    display: flex;
+    justify-content: center;
 }
 
 .icons {
