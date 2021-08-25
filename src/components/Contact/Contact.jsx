@@ -8,7 +8,7 @@ import './Contact.css';
 
 const Contact = () => {
     return (
-        <main className="container my-3 rounded" id="main">
+        <main className="container mt-3 mb-5 rounded" id="main">
             <div className="row">
                 <div className="col">
                     {/* <!-- Header row --> */}

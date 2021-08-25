@@ -3,12 +3,6 @@
     font-family: "Amatic SC", "Courier New", Courier, monospace;
 }
 
-.media-project {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-}
-
 #banner {
     background: transparent url(../../images/banner.jpg) no-repeat center center /
       cover;

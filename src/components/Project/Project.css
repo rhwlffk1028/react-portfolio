@@ -3,7 +3,7 @@
 }
 
 .card {
-  margin: 0 10px 0 10px;
+  margin: 10px;
   width:320px !important;
   height: auto !important;
 }
@@ -39,6 +39,7 @@
     background-color: #013a63;
     color: #fff;
     margin-top: 60px !important;
+    margin-bottom: 100px !important;
     border: 1px solid white;
   }
   
